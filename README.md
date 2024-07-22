@@ -1,4 +1,4 @@
-Certainly! Here's a professional README.md tailored to your project:
+
 
 ```markdown
 # ALX Backend JavaScript
