@@ -1,5 +1,8 @@
-function  getResponseFromAPI() {
-	return new Promise((resolve, reject) => {
-		resolve(); //resolve the promise immedietesl
-	});
+
+// 0-promise.js
+export default function getResponseFromAPI() {
+    return new Promise((resolve, reject) => {
+        resolve(); // Resolve the promise immediately
+    });
 }
+
